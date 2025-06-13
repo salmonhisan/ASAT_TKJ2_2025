@@ -1,3 +1,5 @@
+remidi3_Salma khoirotunHisan_33
+
 def luas_persegi(s):
     return s * s
 
